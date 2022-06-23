@@ -1,6 +1,10 @@
 <h1 align="center">Codilândia Blog</h1>
 <p align="center">O projeto é um desafio proposto pela comunidade <a href="https://discord.gg/wNCWTVuxyz">@Codilândia</a>
 </p>
+<P align='center'>
+<a href="https://codilandia-blog.herokuapp.com/">Demo</a>
+</p>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/askagi/codilandia-blog?color=%2304D361">
 
@@ -31,6 +35,8 @@ Tabela de conteúdos
 ## 💻 Sobre o projeto
 
 📘️ Codelândia Blog - é uma página web de Blog desenvolvida com a finalidade de aplicar estudos praticar e ganhar experiência na área de frontend utilizando o ReactJs.
+
+**[Click aqui para acessar a aplicação](https://codilandia-blog.herokuapp.com/)**
 
 ---
 
