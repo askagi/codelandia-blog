@@ -2,7 +2,7 @@
 <p align="center">O projeto é um desafio proposto pela comunidade <a href="https://discord.gg/wNCWTVuxyz">@Codilândia</a>
 </p>
 <P align='center'>
-<a href="https://codilandia-blog.herokuapp.com/">Demo</a>
+<a href="https://codilandia-blog.herokuapp.com/" target='_blank'>Demo</a>
 </p>
 
 <p align="center">
