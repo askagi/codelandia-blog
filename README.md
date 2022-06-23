@@ -5,7 +5,6 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/askagi/codilandia-blog?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/askagi/codilandia-blog">
-  
   <a href="https://github.com/askagi/codilandia-blog/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/askagi/codilandia-blog">
   </a>
