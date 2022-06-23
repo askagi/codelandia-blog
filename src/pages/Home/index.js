@@ -33,7 +33,6 @@ function Home() {
   return (
     <div className="home">
       <Header />
-
       <div className="container-posts">
         {!posts.length ?
           <h2>Não ha postagens</h2>
