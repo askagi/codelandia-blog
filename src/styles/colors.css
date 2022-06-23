@@ -1,0 +1,9 @@
+:root {
+    --blue: #3EA1DB;
+    --blue-dark: #574AE8;
+    --white: #FFF;
+    --white-200: #F3F5F7;
+    --title: #313131;
+    --text: #B6B6B6;
+    --linear: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
+}

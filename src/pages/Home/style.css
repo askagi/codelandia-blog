@@ -1,0 +1,21 @@
+.home {
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--white-200);
+}
+
+.container-posts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10rem 27rem;
+    gap: 5rem;
+    transition: all .5s;
+}
+
+@media only screen and (max-width: 1100px) {
+    .container-posts {
+        padding: 5rem 2rem;
+        gap: 2.5rem
+    }
+}

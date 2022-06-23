@@ -1,0 +1,37 @@
+.relative-search {
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.search {
+    all: unset;
+    width: 100%;
+    padding: 2.1rem 6.4rem;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.2);
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 1.8rem;
+    color: var(--white);
+    transition: all .3s;
+}
+
+.search::placeholder {
+    color: var(--white);
+    opacity: 0.5;
+}
+
+
+.search:focus {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 15px;
+}
+
+.search__icon {
+    position: absolute;
+    top: 2.1rem;
+    bottom: 0;
+    right: 0;
+    left: 2.1rem;
+}

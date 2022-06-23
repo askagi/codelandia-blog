@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src: url('../assets/fonts/Inter-Regular.ttf');
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src: url('../assets/fonts/Inter-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Lexend Deca', sans-serif;
+    src: url('../assets/fonts/LexendDeca-Regular.ttf');
+    font-weight: 500;
+}
