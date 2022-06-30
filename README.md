@@ -1,21 +1,21 @@
 <h1 align="center">Codelândia Blog</h1>
-<p align="center">O projeto é um desafio proposto pela comunidade <a href="https://discord.gg/wNCWTVuxyz">@Codilândia</a>
+<p align="center">O projeto é um desafio proposto pela comunidade <a href="https://discord.gg/wNCWTVuxyz">@Codelândia</a>
 </p>
 <P align='center'>
-<a href="https://codilandia-blog.herokuapp.com/" target='_blank'>Demo</a>
+<a href="https://codelandia-blog.herokuapp.com/" target='_blank'>Demo</a>
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/askagi/codilandia-blog?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/askagi/codelandia-blog?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/askagi/codilandia-blog">
-  <a href="https://github.com/askagi/codilandia-blog/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/askagi/codilandia-blog">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/askagi/codelandia-blog">
+  <a href="https://github.com/askagi/codelandia-blog/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/askagi/codelandia-blog">
   </a>
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/askagi/codilandia-blog">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/askagi/codilandia-blog?style=social">
+   <a href="https://github.com/askagi/codelandia-blog">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/askagi/codelandia-blog?style=social">
   </a>
 </p>
 
@@ -36,7 +36,7 @@ Tabela de conteúdos
 
 📘️ Codelândia Blog - é uma página web de Blog desenvolvida com a finalidade de aplicar estudos praticar e ganhar experiência na área de frontend utilizando o ReactJs.
 
-**[Click aqui para acessar a aplicação](https://codilandia-blog.herokuapp.com/)**
+**[Click aqui para acessar a aplicação](https://codelandia-blog.herokuapp.com/)**
 
 ---
 
@@ -45,24 +45,24 @@ Tabela de conteúdos
 O layout da aplicação está disponível no Figma:
 <p>
     <a href="https://discord.gg/wNCWTVuxyz">
-    <img alt="Feito pela Codilândia" src="https://img.shields.io/badge/feito%20por-Codilândia-%237519C1">
+    <img alt="Feito pela Codelândia" src="https://img.shields.io/badge/feito%20por-Codelândia-%237519C1">
   </a>
 <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=39340%3A690">
-  <img alt="Made by codilândia" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="Made by codelândia" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 </p>
 
 ### Web
 
 <p align="">
-  <img alt="CodilandiaBlog" title="#CodilandiaBlog" src="./src/assets/screenShots/screenShot-web.png" width="">
+  <img alt="CodelandiaBlog" title="#CodelandiaBlog" src="./src/assets/screenShots/screenShot-web.png" width="">
 </p>
 
 ### Web - Responsivo
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   
- <img alt="CodilandiaBlog" title="#CodilandiaBlog" src="./src/assets/screenShots/screenShot-responsive.png" width="">
+ <img alt="CodelandiaBlog" title="#CodelandiaBlog" src="./src/assets/screenShots/screenShot-responsive.png" width="">
 </p>
 
 ---
@@ -72,10 +72,10 @@ O layout da aplicação está disponível no Figma:
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:askagi/codilandia-blog.git
+$ git clone git@github.com:askagi/codelandia-blog.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd codilandia-blog
+$ cd codelandia-blog
 
 # Instale as dependências
 $ npm install
