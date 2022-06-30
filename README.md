@@ -1,4 +1,4 @@
-<h1 align="center">Codilândia Blog</h1>
+<h1 align="center">Codelândia Blog</h1>
 <p align="center">O projeto é um desafio proposto pela comunidade <a href="https://discord.gg/wNCWTVuxyz">@Codilândia</a>
 </p>
 <P align='center'>
@@ -126,7 +126,7 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por José Costa 👋🏽 [Entre em contato!](https://www.linkedin.com/in/josecostasantosjr/)
 
-Figma feito por **[Iuri Silva](https://iuricode.com/)** / **[Codilândia](https://iuricode.com/)**
+Figma feito por **[Iuri Silva](https://iuricode.com/)** / **[Codelândia](https://iuricode.com/)**
 <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=39340%3A690">
-  <img alt="Made by codilândia" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="Made by codelândia" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
